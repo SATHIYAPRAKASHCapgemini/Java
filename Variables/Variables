@@ -1,0 +1,19 @@
+package work;
+
+public class Variables {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int rollno;
+	      String name;
+	      double marks;
+	      rollno = 19;
+	      name   = "David";
+	      marks  = 89.8;
+	      System.out.println("Your roll number is " + rollno);
+	      System.out.println("Your name is " + name);
+	      System.out.println("Your marks is " + marks);
+
+	}
+
+}
